@@ -13,7 +13,7 @@ O **Agno WAHA WhatsApp Bot** é uma solução de automação de atendimento via 
 
 ## Exibição de Teste do Bot no Painel do WAHA
 
-Agno_Waha_Whatsapp_Bot/test/Whatsapp_Agno.png
+<img src="https://github.com/ProfMPPDias/Agno_Waha_Whatsapp_Bot/blob/main/test/Whatsapp_Agno.png" alt="Agno WAHA Whatsapp Bot">
 
 
 ***
@@ -154,6 +154,7 @@ Edite o arquivo `prompt.xml` para customizar o comportamento do atendente virtua
 ## Licença
 
 Distribuído sob a **GNU GPLv3**. Consulte o arquivo LICENSE para detalhes.
+
 
 
 
